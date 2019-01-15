@@ -6,3 +6,5 @@ sample2
 
 y1_commit_add
 for test
+
+add case 1
