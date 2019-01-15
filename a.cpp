@@ -9,4 +9,3 @@ y1_commit_add
 for test
 
 add case 1
-a.cpp test
